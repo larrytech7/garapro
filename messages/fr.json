@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteName": "GaraPro",
+    "homeTitle": "GaraPro — Assistance dépannage en 15 minutes",
+    "homeDescription": "GaraPro ouvre un canal d'assistance en 15 minutes : un mécanicien nommé, une heure d'arrivée annoncée. Appelez ou écrivez sur WhatsApp.",
+    "coverageTitle": "Couverture",
+    "coverageDescription": "Mécaniciens basés à Douala, Yaoundé, Bafoussam, Bamenda, Garoua, Buea, Limbé et Ngaoundéré. Hors ville, l'heure d'arrivée est confirmée avant le départ.",
+    "engagementTitle": "Engagement",
+    "engagementDescription": "Ce que les 15 minutes comprennent, comment le prix est fixé, et comment le mécanicien est identifié avant de partir.",
+    "privacyTitle": "Politique de confidentialité",
+    "privacyDescription": "Ce que GaraPro fait des informations que vous partagez par téléphone ou sur WhatsApp.",
+    "termsTitle": "Conditions générales",
+    "termsDescription": "GaraPro crée un canal d'assistance rapide et n'est pas responsable des défauts causés par les mécaniciens envoyés."
+  },
+  "nav": {
+    "how": "Déroulement",
+    "coverage": "Couverture",
+    "engagement": "Engagement",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "home": "Accueil GaraPro",
+    "main": "Navigation",
+    "skip": "Aller au contenu"
+  },
+  "actions": {
+    "call": "Appeler",
+    "whatsapp": "WhatsApp",
+    "whatsappPrefill": "Bonjour GaraPro, ma voiture est en panne. Voici ma position :",
+    "callLabel": "Appeler GaraPro",
+    "whatsappLabel": "Écrire à GaraPro sur WhatsApp",
+    "bar": "Demander de l'aide"
+  },
+  "hero": {
+    "kicker": "Assistance dépannage",
+    "title": "En panne, où que vous soyez.",
+    "promise": "En 15 minutes, un mécanicien vous est nommé et son heure d'arrivée est annoncée. Cette heure dépend de l'endroit où vous êtes.",
+    "figureValue": "15",
+    "figureUnit": "min",
+    "figureCaption": "Un mécanicien nommé. Une heure d'arrivée annoncée."
+  },
+  "steps": {
+    "id": "etapes",
+    "kicker": "Déroulement",
+    "title": "Trois étapes. Rien d'autre.",
+    "oneTitle": "Vous appelez.",
+    "oneBody": "Décrivez la panne au téléphone ou sur WhatsApp, et partagez votre position.",
+    "twoTitle": "Nous nommons.",
+    "twoBody": "En 15 minutes, vous avez le nom du mécanicien et l'heure à laquelle il arrive.",
+    "threeTitle": "Il intervient.",
+    "threeBody": "Réparation sur place ou remorquage, au prix convenu avant de commencer."
+  },
+  "services": {
+    "kicker": "Interventions",
+    "title": "Ce que le mécanicien peut prendre en charge.",
+    "battery": "Batterie",
+    "tire": "Pneu crevé",
+    "fuel": "Carburant",
+    "heat": "Surchauffe",
+    "mechanical": "Panne légère",
+    "tow": "Remorquage"
+  },
+  "values": {
+    "kicker": "Ce qui se vérifie",
+    "title": "Vitesse, efficacité, intégrité.",
+    "speedTitle": "Vitesse",
+    "speedBody": "Un mécanicien vous est assigné en 15 minutes.",
+    "efficiencyTitle": "Efficacité",
+    "efficiencyBody": "Un canal, un mécanicien, sans circuit d'appel.",
+    "integrityTitle": "Intégrité",
+    "integrityBody": "Technicien identifié, prix avant travaux, heure d'arrivée avant le départ."
+  },
+  "coverage": {
+    "kicker": "Villes",
+    "title": "Ils partent d'ici.",
+    "intro": "Le mécanicien le plus proche part de l'une de ces villes.",
+    "outTitle": "Hors de la ville",
+    "outBody": "Si vous êtes loin d'une agglomération, l'aide part de la base la plus proche. L'heure d'arrivée est confirmée avant le départ. Si ce délai ne vous convient pas, rien n'est engagé.",
+    "more": "Voir la couverture"
+  },
+  "faq": {
+    "kicker": "Questions",
+    "title": "Avant d'appeler.",
+    "oneQ": "Que signifient ces 15 minutes ?",
+    "oneA": "Ces 15 minutes sont le délai de réponse dont le mécanicien dispose pour vous rejoindre et vous assister.",
+    "twoQ": "La nuit et le week-end ?",
+    "twoA": "Oui. Le canal est ouvert la nuit et le week-end.",
+    "threeQ": "Comment paie-t-on ?",
+    "threeA": "En espèces, par MTN Mobile Money ou par Orange Money. Le montant est fixé avec le mécanicien avant l'intervention.",
+    "fourQ": "Et si je suis loin d'une ville ?",
+    "fourA": "Le mécanicien part de la base la plus proche. L'heure d'arrivée vous est confirmée avant son départ."
+  },
+  "close": {
+    "title": "Dites où vous êtes.",
+    "body": "Un appel ou un message WhatsApp suffit pour ouvrir le canal."
+  },
+  "footer": {
+    "tagline": "Assistance dépannage au Cameroun.",
+    "legal": "Informations"
+  },
+  "cities": {
+    "douala": "Douala",
+    "yaounde": "Yaoundé",
+    "bafoussam": "Bafoussam",
+    "bamenda": "Bamenda",
+    "garoua": "Garoua",
+    "buea": "Buea",
+    "limbe": "Limbé",
+    "ngaoundere": "Ngaoundéré"
+  },
+  "regions": {
+    "littoral": "Littoral",
+    "centre": "Centre",
+    "ouest": "Ouest",
+    "nordOuest": "Nord-Ouest",
+    "nord": "Nord",
+    "sudOuest": "Sud-Ouest",
+    "adamaoua": "Adamaoua"
+  },
+  "engagement": {
+    "kicker": "Engagement",
+    "title": "La vitesse se compte. L'intégrité se vérifie.",
+    "intro": "Vous savez qui vient, quand il arrive, et combien cela coûte, avant que le travail commence.",
+    "includeTitle": "Ce que les 15 minutes comprennent",
+    "include1": "Une personne vous répond.",
+    "include2": "Un mécanicien est nommé.",
+    "include3": "Une heure d'arrivée vous est donnée à partir de votre position.",
+    "excludeTitle": "Ce qu'elles ne comprennent pas",
+    "exclude1": "La présence du mécanicien en 15 minutes, quelle que soit la distance.",
+    "exclude2": "La réparation. GaraPro ouvre le canal. Le mécanicien fait le travail.",
+    "termsLink": "La limite de responsabilité est écrite dans les conditions générales.",
+    "qualTitle": "Des mécaniciens identifiables",
+    "qual1": "Vous connaissez le nom du mécanicien avant qu'il parte.",
+    "qual2": "Il part seulement une fois l'heure d'arrivée annoncée.",
+    "priceTitle": "Un prix avant les travaux",
+    "price1": "Le montant est convenu avant d'ouvrir le capot.",
+    "price2": "Pas de supplément annoncé une fois le travail commencé. Le paiement se fait en espèces, par MTN Mobile Money ou par Orange Money."
+  },
+  "privacy": {
+    "updated": "26 octobre 2026",
+    "title": "Politique de confidentialité",
+    "whoTitle": "Qui est responsable",
+    "who1": "GaraPro propose un canal d'assistance dépannage au Cameroun. Pour toute question sur vos informations, appelez-nous ou écrivez-nous sur WhatsApp au numéro indiqué sur ce site.",
+    "siteTitle": "Ce que ce site collecte",
+    "site1": "Ce site ne crée pas de compte et ne contient pas de formulaire. Il ne dépose pas de cookies d'analyse ni de cookies publicitaires.",
+    "site2": "Vous pouvez lire ces pages sans donner de nom, de numéro ou de position.",
+    "channelTitle": "Appel et WhatsApp",
+    "channel1": "La demande d'assistance se fait par téléphone ou par WhatsApp. Vous pouvez alors nous communiquer votre numéro, votre position, votre véhicule et la description de la panne.",
+    "channel2": "Ces informations servent uniquement à ouvrir le canal d'assistance : nommer un mécanicien et annoncer une heure d'arrivée.",
+    "thirdTitle": "WhatsApp et votre opérateur",
+    "third1": "WhatsApp est un service de Meta. L'appel téléphonique passe par votre opérateur. Leurs propres règles s'appliquent à ce qui circule sur leurs réseaux.",
+    "rightsTitle": "Vente, accès, suppression",
+    "rights1": "Nous ne vendons pas ces informations.",
+    "rights2": "Vous pouvez demander l'accès à ce que vous nous avez transmis, ou sa suppression, en nous contactant au numéro publié sur ce site."
+  },
+  "terms": {
+    "updated": "26 octobre 2026",
+    "title": "Conditions générales",
+    "channelTitle": "Un canal, pas une réparation",
+    "channel1": "GaraPro crée uniquement un canal d'assistance rapide. GaraPro vous met en relation avec un mécanicien. GaraPro n'effectue pas la réparation.",
+    "channel2": "Le service consiste à vous répondre, à vous nommer un mécanicien et à vous annoncer son heure d'arrivée.",
+    "minutesTitle": "Ce que veulent dire 15 minutes",
+    "minutes1": "En 15 minutes, le canal est ouvert : un mécanicien est nommé et une heure d'arrivée vous est donnée.",
+    "minutes2": "Ce délai n'est pas une promesse que GaraPro répare la voiture, ni que le mécanicien est à votre portière en 15 minutes. L'heure d'arrivée dépend de votre position et vous est dite avant le départ.",
+    "mechanicTitle": "Le mécanicien et le prix",
+    "mechanic1": "Le mécanicien est seul responsable du diagnostic, du travail et du résultat.",
+    "mechanic2": "Le prix est convenu avec le mécanicien avant le début des travaux.",
+    "liabilityTitle": "Responsabilité",
+    "liability1": "GaraPro n'est pas responsable des défauts, dommages ou malfaçons causés par les mécaniciens envoyés pour vous assister.",
+    "liability2": "Toute réclamation sur la qualité du travail s'adresse au mécanicien qui l'a réalisé.",
+    "clientTitle": "Votre part",
+    "client1": "Vous donnez une position et une description exactes, et vous restez dans un endroit sûr pour vous arrêter.",
+    "contactTitle": "Contact",
+    "contact1": "Pour toute question sur ces conditions, appelez GaraPro ou écrivez sur WhatsApp au numéro indiqué sur ce site."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "Cette adresse ne mène nulle part.",
+    "back": "Retour à l'accueil"
+  }
+}

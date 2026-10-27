@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteName": "GaraPro",
+    "homeTitle": "GaraPro — Roadside help within 15 minutes",
+    "homeDescription": "GaraPro opens an assistance channel within 15 minutes: a named mechanic and a stated arrival time. Call or message on WhatsApp.",
+    "coverageTitle": "Coverage",
+    "coverageDescription": "Mechanics based in Douala, Yaoundé, Bafoussam, Bamenda, Garoua, Buea, Limbé, and Ngaoundéré. Outside a city, the arrival time is confirmed before anyone sets off.",
+    "engagementTitle": "Commitment",
+    "engagementDescription": "What the 15 minutes include, how the price is set, and how the mechanic is identified before leaving.",
+    "privacyTitle": "Privacy policy",
+    "privacyDescription": "What GaraPro does with the information you share by phone or WhatsApp.",
+    "termsTitle": "Terms and conditions",
+    "termsDescription": "GaraPro creates a channel for fast assistance and is not liable for defects caused by the mechanics it sends."
+  },
+  "nav": {
+    "how": "Steps",
+    "coverage": "Coverage",
+    "engagement": "Commitment",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions",
+    "home": "GaraPro home",
+    "main": "Navigation",
+    "skip": "Skip to content"
+  },
+  "actions": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "whatsappPrefill": "Hello GaraPro, my car has broken down. My location is:",
+    "callLabel": "Call GaraPro",
+    "whatsappLabel": "Message GaraPro on WhatsApp",
+    "bar": "Ask for help"
+  },
+  "hero": {
+    "kicker": "Roadside assistance",
+    "title": "Broken down, wherever you are.",
+    "promise": "Within 15 minutes, a mechanic is named and an arrival time is given. That time depends on where you are.",
+    "figureValue": "15",
+    "figureUnit": "min",
+    "figureCaption": "A mechanic is named. An arrival time is given."
+  },
+  "steps": {
+    "id": "etapes",
+    "kicker": "Steps",
+    "title": "Three steps. Nothing else.",
+    "oneTitle": "You call.",
+    "oneBody": "Describe the breakdown by phone or WhatsApp, and share your location.",
+    "twoTitle": "We name someone.",
+    "twoBody": "Within 15 minutes you have the mechanic's name and the time they will arrive.",
+    "threeTitle": "They get to work.",
+    "threeBody": "Repair on site or a tow, at the price agreed before any work starts."
+  },
+  "services": {
+    "kicker": "Call-outs",
+    "title": "What the mechanic can handle.",
+    "battery": "Battery",
+    "tire": "Flat tire",
+    "fuel": "Fuel",
+    "heat": "Overheating",
+    "mechanical": "Minor mechanical fault",
+    "tow": "Tow to a garage"
+  },
+  "values": {
+    "kicker": "What you can check",
+    "title": "Speed, efficiency, integrity.",
+    "speedTitle": "Speed",
+    "speedBody": "A mechanic is assigned to you within 15 minutes.",
+    "efficiencyTitle": "Efficiency",
+    "efficiencyBody": "One channel, one mechanic, and no call-centre loop.",
+    "integrityTitle": "Integrity",
+    "integrityBody": "An identified technician, a price before work, and an arrival time before anyone sets off."
+  },
+  "coverage": {
+    "kicker": "Cities",
+    "title": "They set off from here.",
+    "intro": "The nearest mechanic sets off from one of these cities.",
+    "outTitle": "Outside a city",
+    "outBody": "If you are far from a city, help sets off from the nearest base. The arrival time is confirmed before anyone leaves. If that time does not work for you, nothing is booked.",
+    "more": "See coverage"
+  },
+  "faq": {
+    "kicker": "Questions",
+    "title": "Before you call.",
+    "oneQ": "What do the 15 minutes mean?",
+    "oneA": "These 15 minutes are the response time the mechanic can take to actually reach you and assist you.",
+    "twoQ": "At night and on weekends?",
+    "twoA": "Yes. The channel is open at night and on weekends.",
+    "threeQ": "How do you pay?",
+    "threeA": "Cash, MTN Mobile Money, or Orange Money. The amount is set with the mechanic before the work starts.",
+    "fourQ": "What if I am far from a city?",
+    "fourA": "The mechanic sets off from the nearest base. The arrival time is confirmed before they leave."
+  },
+  "close": {
+    "title": "Say where you are.",
+    "body": "A call or a WhatsApp message is enough to open the channel."
+  },
+  "footer": {
+    "tagline": "Roadside assistance in Cameroon.",
+    "legal": "Information"
+  },
+  "cities": {
+    "douala": "Douala",
+    "yaounde": "Yaoundé",
+    "bafoussam": "Bafoussam",
+    "bamenda": "Bamenda",
+    "garoua": "Garoua",
+    "buea": "Buea",
+    "limbe": "Limbé",
+    "ngaoundere": "Ngaoundéré"
+  },
+  "regions": {
+    "littoral": "Littoral",
+    "centre": "Centre",
+    "ouest": "West",
+    "nordOuest": "Northwest",
+    "nord": "North",
+    "sudOuest": "Southwest",
+    "adamaoua": "Adamawa"
+  },
+  "engagement": {
+    "kicker": "Commitment",
+    "title": "Speed is counted. Integrity is checked.",
+    "intro": "You know who is coming, when they arrive, and what it costs, before any work begins.",
+    "includeTitle": "What the 15 minutes include",
+    "include1": "A person answers you.",
+    "include2": "A mechanic is named.",
+    "include3": "An arrival time is given from your location.",
+    "excludeTitle": "What they do not include",
+    "exclude1": "The mechanic standing next to the car in 15 minutes, no matter the distance.",
+    "exclude2": "The repair. GaraPro opens the channel. The mechanic does the work.",
+    "termsLink": "The limit of liability is written in the terms and conditions.",
+    "qualTitle": "Mechanics you can identify",
+    "qual1": "You know the mechanic's name before they leave.",
+    "qual2": "They leave only after the arrival time has been given.",
+    "priceTitle": "A price before the work",
+    "price1": "The amount is agreed before the bonnet is opened.",
+    "price2": "No extra charge is announced once the work has started. Payment is in cash, MTN Mobile Money, or Orange Money."
+  },
+  "privacy": {
+    "updated": "26 October 2026",
+    "title": "Privacy policy",
+    "whoTitle": "Who is responsible",
+    "who1": "GaraPro runs a roadside assistance channel in Cameroon. For any question about your information, call us or message us on WhatsApp at the number published on this site.",
+    "siteTitle": "What this site collects",
+    "site1": "This site does not create an account and has no form. It does not set analytics cookies or advertising cookies.",
+    "site2": "You can read these pages without giving a name, a number, or a location.",
+    "channelTitle": "Calls and WhatsApp",
+    "channel1": "You ask for help by phone or WhatsApp. You may then share your number, your location, your vehicle, and what has gone wrong.",
+    "channel2": "That information is used only to open the assistance channel: to name a mechanic and to give an arrival time.",
+    "thirdTitle": "WhatsApp and your carrier",
+    "third1": "WhatsApp is Meta's service. A phone call goes through your carrier. Their own rules apply to what travels on their networks.",
+    "rightsTitle": "Sale, access, deletion",
+    "rights1": "We do not sell this information.",
+    "rights2": "You can ask to see what you sent us, or ask us to delete it, by contacting the number published on this site."
+  },
+  "terms": {
+    "updated": "26 October 2026",
+    "title": "Terms and conditions",
+    "channelTitle": "A channel, not a repair",
+    "channel1": "GaraPro only creates a channel for fast assistance. GaraPro puts you in contact with a mechanic. GaraPro does not perform the repair.",
+    "channel2": "The service is to answer you, name a mechanic, and give you an arrival time.",
+    "minutesTitle": "What 15 minutes means",
+    "minutes1": "Within 15 minutes the channel is open: a mechanic is named and an arrival time is given.",
+    "minutes2": "That window is not a promise that GaraPro fixes the car, and it is not a promise that the mechanic is at your door in 15 minutes. Arrival depends on your location and is stated before anyone sets off.",
+    "mechanicTitle": "The mechanic and the price",
+    "mechanic1": "The mechanic is solely responsible for the diagnosis, the work, and the result.",
+    "mechanic2": "The price is agreed with the mechanic before work starts.",
+    "liabilityTitle": "Liability",
+    "liability1": "GaraPro is not liable for any defect, damage, or faulty work caused by the mechanics sent to assist you.",
+    "liability2": "A complaint about the quality of the work is for the mechanic who did it.",
+    "clientTitle": "What you do",
+    "client1": "You give an accurate location and an accurate description, and you stay in a safe place to stop.",
+    "contactTitle": "Contact",
+    "contact1": "For any question about these terms, call GaraPro or write on WhatsApp at the number published on this site."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This address does not lead anywhere.",
+    "back": "Back to the home page"
+  }
+}

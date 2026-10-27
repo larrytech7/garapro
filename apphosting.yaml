@@ -1,0 +1,29 @@
+# Firebase App Hosting. A marketing site: one CPU, no always-on instances.
+# In the console, choose the Node.js 22 runtime so it matches package.json.
+runConfig:
+  minInstances: 0
+  maxInstances: 4
+  concurrency: 80
+  cpu: 1
+  memoryMiB: 1024
+
+env:
+  - variable: NEXT_PUBLIC_PHONE
+    value: "+237678656032"
+    availability:
+      - BUILD
+      - RUNTIME
+
+  - variable: NEXT_PUBLIC_WHATSAPP
+    value: "237678656032"
+    availability:
+      - BUILD
+      - RUNTIME
+
+  # Set this to the live URL before the first rollout, in this file or in the
+  # Firebase console. Console values override this file. Example:
+  - variable: NEXT_PUBLIC_SITE_URL
+    value: https://garapro.com
+    availability:
+      - BUILD
+      - RUNTIME
